@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **pmcaliph97/pmcaliph97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## - 🔭 I’m currently working on an algorithmic trading bot that uses transformers model to forecast 1-day ahead price combined with sentimental analysis
-## - Fun Fact - No number before 1000 contains the letter A
+##### - 🔭 I’m currently working on an algorithmic trading bot that uses transformers model to forecast 1-day ahead price combined with sentimental analysis
+##### - Fun Fact - No number before 1000 contains the letter A
